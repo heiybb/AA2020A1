@@ -1,0 +1,12 @@
+
+s
+java:S1192U"^Define a constant instead of duplicating this literal ": incorrect number of tokens." 6 times.(ëã¤X
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Óóäşÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ8Å™ŞÕ.
+m
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Àœ­¾ùÿÿÿÿ
+h
+java:S2095ä"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Âªó€ûÿÿÿÿ
